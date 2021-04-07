@@ -214,7 +214,7 @@ By default, this feature is enabled. In case you want to disable it, set the fol
 flightrecorder.trigger-enabled=false
 ```
 
-This scheduled process is executed each 10 seconds. The default configuration can be changed thought this property:
+This scheduled process is executed each 10 seconds. The default configuration can be changed through this property:
 
 ```properties
 flightrecorder.trigger-check-interval=10000
